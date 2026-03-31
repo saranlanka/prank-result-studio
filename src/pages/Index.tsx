@@ -37,7 +37,6 @@ const Index = () => {
           <p className="text-muted-foreground">
             Enter your details to check your <span className="text-primary font-semibold">"official"</span> JNTUK result
           </p>
-          </p>
         </div>
 
         {/* Form */}
