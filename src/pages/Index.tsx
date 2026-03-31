@@ -32,10 +32,10 @@ const Index = () => {
         {/* Header */}
         <div className="text-center space-y-2">
           <h1 className="text-3xl sm:text-4xl font-extrabold text-foreground">
-            🎉 Exam Result Portal
+            🎉 JNTUK Results Portal
           </h1>
           <p className="text-muted-foreground">
-            Enter your details to check your <span className="text-primary font-semibold">"official"</span> result
+            Enter your details to check your <span className="text-primary font-semibold">"official"</span> JNTUK result
           </p>
         </div>
 
