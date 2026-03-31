@@ -39,7 +39,7 @@ const ResultCard = ({ name, rollNumber }: ResultCardProps) => {
       <div className="rounded-xl border-2 border-primary/30 bg-card shadow-xl overflow-hidden">
         {/* Header */}
         <div className="bg-gradient-to-r from-primary to-accent p-4 text-center">
-          <h2 className="text-xl font-bold text-primary-foreground">🎓 Official* Exam Result</h2>
+          <h2 className="text-xl font-bold text-primary-foreground">🎓 JNTUK Exam Result</h2>
           <p className="text-sm text-primary-foreground/80 mt-1">*Not really official at all</p>
         </div>
 
